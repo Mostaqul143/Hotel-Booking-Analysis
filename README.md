@@ -1,7 +1,7 @@
 # Hotel-Booking-Analysis
 
 
-Hotel Bookings Dataset :
+**Hotel Bookings Dataset :
 
 This dataset contains information about hotel bookings, including hotel types, booking dates, and customer demographics. The dataset includes 119,390 records and 32 features.
 
